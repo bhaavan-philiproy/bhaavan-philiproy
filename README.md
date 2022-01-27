@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 📫 How to reach me **bhaavanphiliproy30@gmail.com**
+- 📫 How to reach me : **bhaavanphiliproy30@gmail.com**
 - 🥅 2022 Goal : Improve my potential & learn new things 
 
 <h3 align="left">Connect with me:</h3>
