@@ -21,4 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaavan-philiproy&show_icons=true&locale=en" alt="bhaavan-philiproy" /></p>
 
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavan-philiproy&layout=compact&theme=prussian&date_format=j%20M%5B%20Y%5D&hide_border=false" />
+
 
