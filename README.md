@@ -11,7 +11,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaavan-philiproy&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=bhaavan-philiproy&show_icons=true&theme=prussian&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api?username=bhaavan-philiproy&theme=prussian&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
