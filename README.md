@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me : **bhaavanphiliproy30@gmail.com**
-- 🥅 2022 Goal : Improve my potential & learn new things 
+- 🥅 2023 Goal : Improve my potential & learn new things 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaavan-philiproy&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
