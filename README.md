@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/bhaavanroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaavanroy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhaavan-philip-roy-23a084212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaavan philip roy" height="30" width="40" /></a>
-<a href="https://instagram.com/____jadevulture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____jadevulture" height="30" width="40" /></a>
+<a href="https://instagram.com/_.bhaavan_roy.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____jadevulture" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
