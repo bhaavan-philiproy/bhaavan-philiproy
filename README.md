@@ -13,6 +13,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=bhaavan-philiproy&theme=prussian&show_icons=true)
 
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavan-philiproy&layout=compact&theme=prussian&date_format=j%20M%5B%20Y%5D&hide_border=false" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhaavanroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaavanroy" height="30" width="40" /></a>
